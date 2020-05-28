@@ -4,7 +4,7 @@ title: Application.
 date: 2020-05-27
 categories: ['work']
 ---
-Honestly, I won't be your most qualified candidate. I'm young, relatively inexperienced, and I have a degree in education, not development. That means this probably won't be the best application you'll see. It won't be the coolest, niftiest, most visually stunning page you've ever seen, but I hope this will be the most passionate and human application you see.
+**Honestly**, I won't be your most qualified candidate. I'm young, relatively inexperienced, and I have a degree in education, not development. That means this probably won't be the best application you'll see. It won't be the coolest, niftiest, most visually stunning page you've ever seen, but I hope this will be the most passionate and human application you see.
 
 I was born in '96, and I don't remember ever not working and playing around with computers. My first program was a sales tax calculator written in Color Computer BASIC on a napkin in elementary school. I was learning about tax and percentages in math class, my dad was teaching me BASIC, and I was excited by both. I wish I still had that napkin.
 
@@ -12,7 +12,7 @@ I don't remember a time without open source either. The first computer I built r
 
 I discovered Tailwind probably six months ago, and I've been fascinated by your work ever since. I currently work for a small Midwestern machine shop as a full-stack developer, helping develop an in-house ERP using a Vue(with Vuetify)/Express/Node/Postgres stack. While Vuetify is great for rapid prototyping, as a designer, I eventually run into stifling limitations when using pre-built components, which is why I *love* the granular, unopinionated nature of Tailwind.
 
-Working with me means you get somebody who knows the value of both ideas and execution. In college, I studied math education with an English minor and participated in a lot of main stage theatre (I led [the Music Man](https://www.youtube.com/watch?v=oCM_n0GDxps), in case you're bored and enjoy small university theatre). I say this just to explain that I enjoy the logical and creative sides of life, the results and the process. I'm also versatile and love to both learn and teach, so I think I make an especially good contributor to small teams.
+Working with me means you get somebody who knows the value of both ideas and execution. In college, I studied math education with an English minor and participated in a lot of main stage theatre (I led <a href="https://www.youtube.com/watch?v=oCM_n0GDxps" target="_blank">the Music Man</a>, in case you're bored and enjoy small university theatre). I say this just to explain that I enjoy the logical and creative sides of life, the results and the process. I'm also versatile and love to both learn and teach, so I think I make an especially good contributor to small teams.
 
 Let me quickly pitch you 3 partially-baked ideas, then I'll say my farewell.
 
