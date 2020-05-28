@@ -10,7 +10,7 @@
 
 <script>
   import Archive from "../components/_partials/Archive.svelte";
-  import Link from "../components/Link"
+  import Link from "../components/Link";
   export let posts;
 </script>
 
@@ -20,16 +20,17 @@
 
 <p>
   Hi, I'm
-  <Link href="about" class="underline font-semibold hover:text-blue-700">Jay.</Link>
+  <Link href="about" class="underline font-semibold hover:text-blue-700">
+    Jay.
+  </Link>
   Or maybe you know me as James, Jimmy, Jake(?), Jason(?), or that
-  <Link href="about#socials" class="underline font-semibold hover:text-blue-700">
+  <Link
+    href="about#socials"
+    class="underline font-semibold hover:text-blue-700">
     That Blue Jay.
   </Link>
   I've got about as many names as I have interests and as many interests as I do
-  <Link href="projects" class="underline font-semibold hover:text-blue-700">
-    projects
-  </Link>
-  and twice as many
+  projects and twice as many
   <Link href="posts" class="underline font-semibold hover:text-blue-700">
     thoughts
   </Link>

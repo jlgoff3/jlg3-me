@@ -38,3 +38,21 @@
     {@html post.html}
   </div>
 </article>
+
+<style>
+a {
+  @apply underline font-semibold;
+}
+
+a:hover {
+  @apply text-blue-700;
+}
+
+ol {
+  @apply list-decimal;
+}
+
+b {
+  @apply font-bold;
+}
+</style>
