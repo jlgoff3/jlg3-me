@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "sapper dev",
     "dev:tailwindcss": "postcss static/tailwind.css -o static/main.css -w",
-    "build:tailwindcss": "NODE_ENV=production postcss static/tailwind.css -o static/main.css",
+    "build:tailwindcss": "postcss static/tailwind.css -o static/main.css",
     "build": "npm run build:tailwindcss && sapper build",
     "export": "npm run build:tailwindcss && sapper export",
     "start": "node __sapper__/build",
