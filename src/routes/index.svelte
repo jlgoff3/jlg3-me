@@ -1,8 +1,8 @@
 <script context="module">
   export function preload({ params, query }) {
     return this.fetch(`posts.json`)
-      .then(r => r.json())
-      .then(posts => {
+      .then((r) => r.json())
+      .then((posts) => {
         return { posts };
       });
   }
@@ -21,21 +21,10 @@
 <p>
   Hi, I'm
   <Link href="about" class="underline font-semibold hover:text-blue-700">
-    Jay.
+    Mr. Goff,
   </Link>
-  Or maybe you know me as James, Jimmy, Jake(?), Jason(?), or that
-  <Link
-    href="about#socials"
-    class="underline font-semibold hover:text-blue-700">
-    That Blue Jay.
+  and I teach math. To learn more about me, visit my
+  <Link href="about" class="underline font-semibold hover:text-blue-700">
+    about page.
   </Link>
-  I've got about as many names as I have interests and as many interests as I do
-  projects and twice as many
-  <Link href="posts" class="underline font-semibold hover:text-blue-700">
-    thoughts
-  </Link>
-  as all of the above combined, so I decided to give myself a place to display
-  them. Please enjoy my personal museum.
 </p>
-
-<Archive {posts} />

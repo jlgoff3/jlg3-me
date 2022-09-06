@@ -42,13 +42,13 @@
       class="block underline sm:inline-block hover:text-blue-700 visited:text-gray-800 active:text-orange-700">
       About
     </a>
-    <a
+    <!-- <a
       rel="prefetch"
       class:active="{segment === 'posts'}"
       href="posts"
       class="block underline sm:inline-block hover:text-blue-700 visited:text-gray-800 active:text-orange-700">
       Posts
-    </a>
+    </a> -->
     <!-- <a
       rel="prefetch"
       class:active="{segment === 'projects'}"
